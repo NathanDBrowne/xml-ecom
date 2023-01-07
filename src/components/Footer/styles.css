@@ -1,0 +1,30 @@
+.Container {
+  background: #333;
+  justify-content: space-between;
+  display: flex;
+  height: 30px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+.FooterLogo {
+  font-weight: 600;
+  color: #fff;
+  padding-left: 10px;
+}
+
+.WebsiteRights {
+  color: #eee;
+  margin-bottom: 16px;
+  padding-right: 10px;
+}
+.SocialIcons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 240px;
+}

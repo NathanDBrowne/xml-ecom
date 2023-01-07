@@ -1,0 +1,16 @@
+<list>
+    <product>
+        <name>RAM stick 8gb</name>
+        <manufacturer>Corsair</manufacturer>
+        <price>34.99</price>
+        <description>You're not gonna want to miss this deal</description>
+        <class>component</class>
+    </product>
+    <product>
+        <name>Thus Spoke Zarathustra</name>
+        <manufacturer>Friedrich Nietzsche</manufacturer>
+        <price>14.99</price>
+        <description>Book about the ubermensch IDK</description>
+        <class>book</class>
+    </product>
+</list>

@@ -1,0 +1,38 @@
+.EntryRow {
+  display: flex;
+  justify-content: right;
+  padding: 10px;
+  max-width: 400px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  padding-right: 10px;
+}
+
+.SelectionBox {
+  width: 225px;
+}
+
+.NewRuleForm {
+  justify-content: center;
+  align-items: center;
+}
+
+.RulebookForm {
+  justify-content: center;
+  align-items: center;
+  display: grid;
+}
+
+.SubmitButton {
+  background: red;
+  border-radius: 10px;
+  font: inherit;
+}
+.SubmitButton:hover {
+  cursor: pointer;
+}

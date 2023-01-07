@@ -1,0 +1,19 @@
+.SubmitButton {
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #333;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #9d47ed;
+  color: #fff;
+}
+.SubmitButton:hover {
+  cursor: pointer;
+}
+
+.ButtonOptions {
+  justify-content: right;
+  display: flex;
+}
